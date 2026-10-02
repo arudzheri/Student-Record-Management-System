@@ -16,6 +16,22 @@ Student Record Management System is a software solution for tracking and managin
 * Language - C++
 * IDE - VS Code
 
+## 🛠️ Development & Maintenance
+
+```bash
+git add .gitignore
+git commit -m "Remove compiled binary and data file"
+git push
+```
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/arudzheri/Student-Record-Management-System.git
+cd Student-Record-Management-System
+git rm srms.exe student.dat
+```
+
 ## License
 
 Code released under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) 
